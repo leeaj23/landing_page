@@ -1770,6 +1770,12 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		.image.resume {
+			display: block;
+			width: 50%;
+			margin: auto;
+		}
+
 		.image.featured {
 			display: block;
 			width: 100%;
